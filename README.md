@@ -45,7 +45,7 @@ The Blood Donation System is an AI-powered conversational chatbot designed to fa
 
 1. Start the application:
    ```shell
-   python main.py
+   python 1stmodule.py
    ```
 
 2. Follow the on-screen prompts to interact with the Blood Donation System chatbot.
